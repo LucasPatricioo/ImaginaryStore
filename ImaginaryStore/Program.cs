@@ -6,7 +6,7 @@ namespace ImaginaryStore
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
